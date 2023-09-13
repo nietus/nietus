@@ -1,4 +1,9 @@
-### Hi there 👋
+### Sup 👋
+
+- Computer Science student at Puc Minas
+- Recently enlisted as a soldier at <a href="https://www.codewars.com/users/nietus">CodeWars</a>
+- Learning data and algorithms w/ java and py
+- Contributing to small open source projects
 
 <!--
 **nietus/nietus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
