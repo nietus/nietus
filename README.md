@@ -1,8 +1,8 @@
-### Sup 👋
+### Yo 👋
 
 - Computer Science student at Puc Minas
 - Recently enlisted as a soldier at <a href="https://www.codewars.com/users/nietus">CodeWars</a>
-- Learning data and algorithms w/ java and py
+- Learning data and algorithms w/ java, C & Py
 - Contributing to small open source projects
 
 <!--
