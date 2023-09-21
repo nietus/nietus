@@ -1,13 +1,9 @@
 ### Yo 👋
-<div style="float: left; width: 50%;">
   
 - Computer Science student at Puc Minas
 - Learning data and algorithms w/ Java, C & Python
 - Contributing to small open source projects
-</div>
-<div style="float: right; width: 50%;">
 <img src="https://github.r2v.ch/codewars?user=nietus&top_languages=true" alt="GitHub Stats">
-</div>
 
 <!--
 **nietus/nietus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
