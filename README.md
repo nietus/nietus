@@ -2,7 +2,6 @@
 
 - Computer Science student at Puc Minas
 - Learning data and algorithms w/ Java, C & Python
-- Contributing to small open source projects
 
 <!--
 **nietus/nietus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
